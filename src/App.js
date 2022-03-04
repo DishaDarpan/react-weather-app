@@ -11,11 +11,11 @@ export default function App() {
         <footer>
           This project was coded by{" "}
           <a
-            href="https://www.delac.io/"
+            href=" https://objective-minsky-54f038.netlify.app"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Matt Delac
+            Disha Pandit
           </a>{" "}
           and is{" "}
           <a
