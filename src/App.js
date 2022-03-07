@@ -24,14 +24,6 @@ export default function App() {
             rel="noopener noreferrer"
           >
             open-sourced on GitHub
-          </a>{" "}
-          and{" "}
-          <a
-            href="https://gracious-yalow-cd3f4c.netlify.app/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            hosted on Netlify
           </a>
         </footer>
       </div>
